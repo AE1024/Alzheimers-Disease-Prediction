@@ -1,5 +1,3 @@
-## 🧠 Alzheimer's Disease Prediction Project Summary
-
 # 🧠 Alzheimer Hastalığı Tahmin Projesi Özeti 
 
 Bu proje, hasta sağlık verileri, klinik ölçümler ve yaşam tarzı faktörlerini kullanarak Alzheimer hastalığının varlığını tahmin etmeyi amaçlamaktadır. Çeşitli Makine Öğrenmesi ve Derin Öğrenme modelleri ile yüksek sınıflandırma doğruluğu hedeflenmiştir.
